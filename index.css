@@ -1,0 +1,20 @@
+@font-face {
+	font-family: jetbrainsMono;
+	src: url(./webfonts/JetBrainsMono-Regular.woff2);
+}
+
+@font-face {
+	font-family: jetbrainsMono;
+	src: url(./webfonts/JetBrainsMono-Bold.woff2);
+	font-weight: bold;
+}
+
+body {
+	font-family: jetbrainsMono;
+	background-color: #262626;
+	color: #ffd7af;
+}
+
+a {
+	text-decoration: none;
+}
